@@ -8,7 +8,7 @@ Streamlit web app scaffold (Korean UI) that will consume the OpenAI API. Managed
 
 ## Commands
 
-Use `uv` for everything — it manages the venv and the lock file. Do not invoke `pip` directly.
+Use `uv` for everything — it manages the venv and the lock file. Do not invoke `pip` directly.https://github.com/gongja-ko/streamlit-myproject.git
 
 - Install / sync dependencies: `uv sync`
 - Add a dependency: `uv add <package>` (updates `pyproject.toml` and `uv.lock`)
